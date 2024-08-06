@@ -10,8 +10,6 @@ const Button = () =>{
     )
 }
 export const ContadorApp = () => {
-    
-    
     return (
         <>
             <h1>Contador</h1>
